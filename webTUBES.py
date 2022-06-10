@@ -1,5 +1,4 @@
 from email.mime import base
-from turtle import left, right
 from click import option
 
 import requests
